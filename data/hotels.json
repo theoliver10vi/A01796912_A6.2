@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hotel Centro",
+    "ubicacion": "Puebla",
+    "habitaciones_total": 10,
+    "habitaciones_disponibles": 10
+  }
+]
