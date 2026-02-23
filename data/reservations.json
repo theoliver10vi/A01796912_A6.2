@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "hotel_id": 1,
+    "customer_id": 1,
+    "habitaciones": 2,
+    "fecha_inicio": "2026-02-22",
+    "fecha_fin": "2026-02-24",
+    "estatus": "CANCELADA"
+  }
+]
